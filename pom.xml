@@ -66,7 +66,7 @@
     <version.org.jboss.ejb3.container>1.0.0-alpha-2</version.org.jboss.ejb3.container>
     <version.org.jboss.ejb3.context>0.1.1</version.org.jboss.ejb3.context>
     <version.org.jboss.ejb3.ejbref.resolver>1.0.0-alpha-1</version.org.jboss.ejb3.ejbref.resolver>
-    <version.org.jboss.ejb3.instantiator>1.0.0-alpha-2</version.org.jboss.ejb3.instantiator>
+    <version.org.jboss.ejb3.instantiator>1.0.0-alpha-3-SNAPSHOT</version.org.jboss.ejb3.instantiator>
     <version.org.jboss.ejb3.nointerface>1.0.0-alpha-6</version.org.jboss.ejb3.nointerface>
     <version.org.jboss.ejb3.proxy>1.0.0-alpha-1</version.org.jboss.ejb3.proxy>
     <version.org.jboss.ejb3.singleton>1.0.0-alpha-12</version.org.jboss.ejb3.singleton>
