@@ -70,12 +70,12 @@
     <version.org.jboss.ejb3.nointerface>1.0.0-alpha-6</version.org.jboss.ejb3.nointerface>
     <version.org.jboss.ejb3.proxy>1.0.0-alpha-1</version.org.jboss.ejb3.proxy>
     <version.org.jboss.ejb3.singleton>1.0.0-alpha-11</version.org.jboss.ejb3.singleton>
-    <version.org.jboss.ejb3.timeout>0.2.0</version.org.jboss.ejb3.timeout>
+    <version.org.jboss.ejb3.timeout>0.2.1</version.org.jboss.ejb3.timeout>
     <version.org.jboss.ejb3.tx2>0.0.1</version.org.jboss.ejb3.tx2>
     <version.org.jboss.ejb3.vfs>1.0.0-alpha-1</version.org.jboss.ejb3.vfs>
     
     <!-- Misc -->
-    <version.org.jboss.metadata_ejb-metadata>2.0.0-alpha-17</version.org.jboss.metadata_ejb-metadata>
+    <version.org.jboss.metadata_ejb-metadata>2.0.0-alpha-18</version.org.jboss.metadata_ejb-metadata>
     
   </properties>
 
