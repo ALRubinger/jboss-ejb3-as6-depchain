@@ -1,0 +1,5 @@
+This artifact defines both a dependency list and dependency management list of
+all EJB 3 components required for AS 6.
+
+By having this artifact we can re-use components that are originally used in a
+different runtime than AS 6.
