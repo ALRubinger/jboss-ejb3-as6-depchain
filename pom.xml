@@ -450,6 +450,10 @@
             <artifactId>hibernate</artifactId>
           </exclusion>
           <exclusion>
+            <groupId>org.hibernate</groupId>
+            <artifactId>hibernate-annotations</artifactId>
+          </exclusion>
+          <exclusion>
             <groupId>org.jboss</groupId>
             <artifactId>jboss-metadata</artifactId>
           </exclusion>
