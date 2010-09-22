@@ -435,6 +435,10 @@
             <groupId>org.hibernate</groupId>
             <artifactId>hibernate-annotations</artifactId>
           </exclusion>
+          <exclusion>
+            <groupId>org.jboss.cache</groupId>
+            <artifactId>jbosscache-core</artifactId>
+          </exclusion>
         </exclusions>
       </dependency>
 
@@ -456,6 +460,10 @@
           <exclusion>
             <groupId>org.jboss</groupId>
             <artifactId>jboss-metadata</artifactId>
+          </exclusion>
+          <exclusion>
+            <groupId>org.jboss.cache</groupId>
+            <artifactId>jbosscache-core</artifactId>
           </exclusion>
           <exclusion>
             <groupId>jboss</groupId>
