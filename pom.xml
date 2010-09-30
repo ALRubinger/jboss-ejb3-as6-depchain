@@ -71,6 +71,7 @@
     <version.org.jboss.ejb3.nointerface>1.0.0-alpha-7</version.org.jboss.ejb3.nointerface>
     <version.org.jboss.ejb3.proxy>1.0.0-alpha-1</version.org.jboss.ejb3.proxy>
     <version.org.jboss.ejb3.singleton>1.0.0-alpha-14</version.org.jboss.ejb3.singleton>
+    <version.org.jboss.ejb3.statefulcache>1.0.0-SNAPSHOT</version.org.jboss.ejb3.statefulcache>
     <version.org.jboss.ejb3.timeout>0.2.1</version.org.jboss.ejb3.timeout>
     <version.org.jboss.ejb3.tx2>0.0.1</version.org.jboss.ejb3.tx2>
     <version.org.jboss.ejb3.vfs>1.0.0-alpha-1</version.org.jboss.ejb3.vfs>
@@ -318,6 +319,16 @@
     <dependency>
         <groupId>org.jboss.ejb3.timerservice</groupId>
         <artifactId>ejb31-calendar-expr-parser</artifactId>
+    </dependency>
+    
+    <!-- Stateful cache providers -->
+    <dependency>
+      <groupId>org.jboss.ejb3.statefulcache</groupId>
+      <artifactId>jboss-ejb3-statefulcache-simple</artifactId>
+    </dependency>
+    <dependency>
+      <groupId>org.jboss.ejb3.statefulcache</groupId>
+      <artifactId>jboss-ejb3-statefulcache-ispn</artifactId>
     </dependency>
     
   </dependencies>
@@ -911,6 +922,18 @@
             <artifactId>jboss-vfs</artifactId>
           </exclusion>
         </exclusions>
+      </dependency>
+
+      <!-- Stateful cache providers -->
+      <dependency>
+        <groupId>org.jboss.ejb3.statefulcache</groupId>
+        <artifactId>jboss-ejb3-statefulcache-simple</artifactId>
+        <version>${version.org.jboss.ejb3.statefulcache}</version>
+      </dependency>
+      <dependency>
+        <groupId>org.jboss.ejb3.statefulcache</groupId>
+        <artifactId>jboss-ejb3-statefulcache-ispn</artifactId>
+        <version>${version.org.jboss.ejb3.statefulcache}</version>
       </dependency>
 
     </dependencies>
