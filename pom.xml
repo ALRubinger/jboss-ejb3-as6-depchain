@@ -76,7 +76,7 @@
     <version.org.jboss.ejb3.vfs>1.0.0-alpha-1</version.org.jboss.ejb3.vfs>
     
     <!-- Misc -->
-    <version.org.jboss.metadata_ejb-metadata>2.0.0-alpha-18</version.org.jboss.metadata_ejb-metadata>
+    <version.org.jboss.metadata_ejb-metadata>2.0.0-alpha-19</version.org.jboss.metadata_ejb-metadata>
     
   </properties>
 
