@@ -17,7 +17,7 @@
   <!-- Artifact Configuration -->
   <groupId>org.jboss.ejb3.depchain</groupId>
   <artifactId>jboss-ejb3-depchain-as6</artifactId>
-  <version>1.0.0-alpha-11</version>
+  <version>1.0.0-alpha-12-SNAPSHOT</version>
   <name>JBoss EJB 3.x Dependency Chain for AS6</name>
   <description>Dependency Chain for EJB 3.x in JBoss Application Server 6</description>
   <packaging>pom</packaging>
