@@ -321,11 +321,7 @@
         <artifactId>ejb31-calendar-expr-parser</artifactId>
     </dependency>
     
-    <!-- Stateful cache providers -->
-    <dependency>
-      <groupId>org.jboss.ejb3.statefulcache</groupId>
-      <artifactId>jboss-ejb3-statefulcache-simple</artifactId>
-    </dependency>
+    <!-- Stateful cache provider -->
     <dependency>
       <groupId>org.jboss.ejb3.statefulcache</groupId>
       <artifactId>jboss-ejb3-statefulcache-ispn</artifactId>
