@@ -915,11 +915,6 @@
       <!-- Stateful cache providers -->
       <dependency>
         <groupId>org.jboss.ejb3.statefulcache</groupId>
-        <artifactId>jboss-ejb3-statefulcache-simple</artifactId>
-        <version>${version.org.jboss.ejb3.statefulcache}</version>
-      </dependency>
-      <dependency>
-        <groupId>org.jboss.ejb3.statefulcache</groupId>
         <artifactId>jboss-ejb3-statefulcache-ispn</artifactId>
         <version>${version.org.jboss.ejb3.statefulcache}</version>
       </dependency>
