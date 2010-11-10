@@ -34,7 +34,7 @@
     <!-- groupId org.jboss.ejb3 -->
     <version.org.jboss.ejb3_jboss.ejb3.cache>1.0.0</version.org.jboss.ejb3_jboss.ejb3.cache>
     <version.org.jboss.ejb3_jboss.ejb3.common>1.0.2</version.org.jboss.ejb3_jboss.ejb3.common>
-    <version.org.jboss.ejb3_jboss.ejb3.core>1.6.0</version.org.jboss.ejb3_jboss.ejb3.core>
+    <version.org.jboss.ejb3_jboss.ejb3.core>1.6.1-SNAPSHOT</version.org.jboss.ejb3_jboss.ejb3.core>
     <version.org.jboss.ejb3_jboss.ejb3.deployers>1.1.5</version.org.jboss.ejb3_jboss.ejb3.deployers>
     <version.org.jboss.ejb3_jboss.ejb3.endpoint>0.1.0</version.org.jboss.ejb3_jboss.ejb3.endpoint>
     <version.org.jboss.ejb3_jboss.ejb3.endpoint.deployer>0.1.4</version.org.jboss.ejb3_jboss.ejb3.endpoint.deployer>
@@ -52,7 +52,7 @@
     <version.org.jboss.ejb3_jboss.ejb3.security>1.0.2</version.org.jboss.ejb3_jboss.ejb3.security>
     <version.org.jboss.ejb3_jboss.ejb3.timerservice.deployer>1.0.0-alpha-5</version.org.jboss.ejb3_jboss.ejb3.timerservice.deployer>
     <version.org.jboss.ejb3_jboss.ejb3.timerservice.naming>1.0.0-alpha-2</version.org.jboss.ejb3_jboss.ejb3.timerservice.naming>
-    <version.org.jboss.ejb3_jboss.ejb3.timerservice.spi>1.0.3</version.org.jboss.ejb3_jboss.ejb3.timerservice.spi>
+    <version.org.jboss.ejb3_jboss.ejb3.timerservice.spi>1.0.4</version.org.jboss.ejb3_jboss.ejb3.timerservice.spi>
     <version.org.jboss.ejb3_jboss.ejb3.transactions>1.0.3</version.org.jboss.ejb3_jboss.ejb3.transactions>
     <version.org.jboss.ejb3.timerservice>1.0.0-alpha-10</version.org.jboss.ejb3.timerservice>
     
