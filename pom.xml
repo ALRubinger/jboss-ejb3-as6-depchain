@@ -65,6 +65,7 @@
     <version.org.jboss.ejb3.concurrency>1.0.0-alpha-3</version.org.jboss.ejb3.concurrency>
     <version.org.jboss.ejb3.container>1.0.0-alpha-2</version.org.jboss.ejb3.container>
     <version.org.jboss.ejb3.context>0.1.1</version.org.jboss.ejb3.context>
+    <version.org.jboss.ejb3.effigy>0.1.0-SNAPSHOT</version.org.jboss.ejb3.effigy>
     <version.org.jboss.ejb3.ejbref.resolver>1.0.0-alpha-4</version.org.jboss.ejb3.ejbref.resolver>
     <version.org.jboss.ejb3.instantiator>1.0.0-alpha-2</version.org.jboss.ejb3.instantiator>
     <version.org.jboss.ejb3.jndibinder>0.1.2</version.org.jboss.ejb3.jndibinder>
@@ -145,6 +146,11 @@
       <artifactId>jboss-ejb3-deployers</artifactId>
     </dependency>
     
+    <dependency>
+      <groupId>org.jboss.ejb3.effigy</groupId>
+      <artifactId>jboss-ejb3-effigy-int2</artifactId>
+    </dependency>
+
     <!-- ejbref-resolver -->
     <dependency>
         <groupId>org.jboss.ejb3.ejbref.resolver</groupId>
@@ -771,6 +777,28 @@
         <groupId>org.jboss.ejb3.context</groupId>
         <artifactId>jboss-ejb3-context-naming</artifactId>
         <version>${version.org.jboss.ejb3.context}</version>
+      </dependency>
+
+      <dependency>
+        <groupId>org.jboss.ejb3.effigy</groupId>
+        <artifactId>jboss-ejb3-effigy-api</artifactId>
+        <version>${version.org.jboss.ejb3.effigy}</version>
+      </dependency>
+      <dependency>
+        <groupId>org.jboss.ejb3.effigy</groupId>
+        <artifactId>jboss-ejb3-effigy-common</artifactId>
+        <version>${version.org.jboss.ejb3.effigy}</version>
+        <exclusions>
+          <exclusion>
+            <groupId>org.jboss.metadata</groupId>
+            <artifactId>jboss-metadata</artifactId>
+          </exclusion>
+        </exclusions>
+      </dependency>
+      <dependency>
+        <groupId>org.jboss.ejb3.effigy</groupId>
+        <artifactId>jboss-ejb3-effigy-int2</artifactId>
+        <version>${version.org.jboss.ejb3.effigy}</version>
       </dependency>
 
     <!-- org.jboss.ejb3.instantiator -->
