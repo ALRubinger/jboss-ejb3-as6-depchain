@@ -34,13 +34,13 @@
     <!-- groupId org.jboss.ejb3 -->
     <version.org.jboss.ejb3_jboss.ejb3.cache>1.0.0</version.org.jboss.ejb3_jboss.ejb3.cache>
     <version.org.jboss.ejb3_jboss.ejb3.common>1.0.2</version.org.jboss.ejb3_jboss.ejb3.common>
-    <version.org.jboss.ejb3_jboss.ejb3.core>1.7.3-SNAPSHOT</version.org.jboss.ejb3_jboss.ejb3.core>
+    <version.org.jboss.ejb3_jboss.ejb3.core>1.7.3</version.org.jboss.ejb3_jboss.ejb3.core>
     <version.org.jboss.ejb3_jboss.ejb3.deployers>1.1.5</version.org.jboss.ejb3_jboss.ejb3.deployers>
     <version.org.jboss.ejb3_jboss.ejb3.endpoint>0.1.0</version.org.jboss.ejb3_jboss.ejb3.endpoint>
     <version.org.jboss.ejb3_jboss.ejb3.endpoint.deployer>0.1.4</version.org.jboss.ejb3_jboss.ejb3.endpoint.deployer>
     <version.org.jboss.ejb3_jboss.ejb3.ext.api>1.1.1</version.org.jboss.ejb3_jboss.ejb3.ext.api>
     <version.org.jboss.ejb3_jboss.ejb3.ext.api.impl>1.1.1</version.org.jboss.ejb3_jboss.ejb3.ext.api.impl>
-    <version.org.jboss.ejb3_jboss.ejb3.interceptors>1.1.0-SNAPSHOT</version.org.jboss.ejb3_jboss.ejb3.interceptors>
+    <version.org.jboss.ejb3_jboss.ejb3.interceptors>1.1.0</version.org.jboss.ejb3_jboss.ejb3.interceptors>
     <version.org.jboss.ejb3_jboss.ejb3.jpa.int>2.0.0-alpha-1</version.org.jboss.ejb3_jboss.ejb3.jpa.int>
     <version.org.jboss.ejb3_jboss.ejb3.mc.int>1.0.2</version.org.jboss.ejb3_jboss.ejb3.mc.int>
     <version.org.jboss.ejb3_jboss.ejb3.metadata>1.0.0</version.org.jboss.ejb3_jboss.ejb3.metadata>
@@ -64,10 +64,10 @@
     <version.org.jboss.ejb3.async>1.0.0-alpha-5</version.org.jboss.ejb3.async>
     <version.org.jboss.ejb3.concurrency>1.0.0-alpha-3</version.org.jboss.ejb3.concurrency>
     <version.org.jboss.ejb3.container>1.0.0-alpha-2</version.org.jboss.ejb3.container>
-    <version.org.jboss.ejb3.context>0.3.0-SNAPSHOT</version.org.jboss.ejb3.context>
+    <version.org.jboss.ejb3.context>0.3.0</version.org.jboss.ejb3.context>
     <version.org.jboss.ejb3.effigy>0.1.0</version.org.jboss.ejb3.effigy>
     <version.org.jboss.ejb3.ejbref.resolver>1.0.0-alpha-4</version.org.jboss.ejb3.ejbref.resolver>
-    <version.org.jboss.ejb3.heks>0.1.0-SNAPSHOT</version.org.jboss.ejb3.heks>
+    <version.org.jboss.ejb3.heks>0.1.0</version.org.jboss.ejb3.heks>
     <version.org.jboss.ejb3.instantiator>1.0.0-alpha-4</version.org.jboss.ejb3.instantiator>
     <version.org.jboss.ejb3.jndibinder>0.1.4</version.org.jboss.ejb3.jndibinder>
     <version.org.jboss.ejb3.nointerface>1.0.0-alpha-9</version.org.jboss.ejb3.nointerface>
