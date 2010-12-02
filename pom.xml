@@ -34,13 +34,13 @@
     <!-- groupId org.jboss.ejb3 -->
     <version.org.jboss.ejb3_jboss.ejb3.cache>1.0.0</version.org.jboss.ejb3_jboss.ejb3.cache>
     <version.org.jboss.ejb3_jboss.ejb3.common>1.0.2</version.org.jboss.ejb3_jboss.ejb3.common>
-    <version.org.jboss.ejb3_jboss.ejb3.core>1.7.7-SNAPSHOT</version.org.jboss.ejb3_jboss.ejb3.core>
+    <version.org.jboss.ejb3_jboss.ejb3.core>1.7.7</version.org.jboss.ejb3_jboss.ejb3.core>
     <version.org.jboss.ejb3_jboss.ejb3.deployers>1.1.5</version.org.jboss.ejb3_jboss.ejb3.deployers>
     <version.org.jboss.ejb3_jboss.ejb3.endpoint>0.1.0</version.org.jboss.ejb3_jboss.ejb3.endpoint>
     <version.org.jboss.ejb3_jboss.ejb3.endpoint.deployer>0.1.4</version.org.jboss.ejb3_jboss.ejb3.endpoint.deployer>
     <version.org.jboss.ejb3_jboss.ejb3.ext.api>1.1.1</version.org.jboss.ejb3_jboss.ejb3.ext.api>
     <version.org.jboss.ejb3_jboss.ejb3.ext.api.impl>1.1.1</version.org.jboss.ejb3_jboss.ejb3.ext.api.impl>
-    <version.org.jboss.ejb3_jboss.ejb3.interceptors>1.1.1-SNAPSHOT</version.org.jboss.ejb3_jboss.ejb3.interceptors>
+    <version.org.jboss.ejb3_jboss.ejb3.interceptors>1.1.1</version.org.jboss.ejb3_jboss.ejb3.interceptors>
     <version.org.jboss.ejb3_jboss.ejb3.jpa.int>2.0.0-alpha-1</version.org.jboss.ejb3_jboss.ejb3.jpa.int>
     <version.org.jboss.ejb3_jboss.ejb3.mc.int>1.0.2</version.org.jboss.ejb3_jboss.ejb3.mc.int>
     <version.org.jboss.ejb3_jboss.ejb3.metadata>1.0.0</version.org.jboss.ejb3_jboss.ejb3.metadata>
@@ -72,7 +72,7 @@
     <version.org.jboss.ejb3.jndibinder>0.1.4</version.org.jboss.ejb3.jndibinder>
     <version.org.jboss.ejb3.nointerface>1.0.0-alpha-9</version.org.jboss.ejb3.nointerface>
     <version.org.jboss.ejb3.proxy>1.0.0-alpha-1</version.org.jboss.ejb3.proxy>
-    <version.org.jboss.ejb3.singleton>1.0.0-alpha-20-SNAPSHOT</version.org.jboss.ejb3.singleton>
+    <version.org.jboss.ejb3.singleton>1.0.0-alpha-20</version.org.jboss.ejb3.singleton>
     <version.org.jboss.ejb3.statefulcache>1.0.0-alpha-4</version.org.jboss.ejb3.statefulcache>
     <version.org.jboss.ejb3.timeout>0.2.1</version.org.jboss.ejb3.timeout>
     <version.org.jboss.ejb3.tx2>0.0.1</version.org.jboss.ejb3.tx2>
