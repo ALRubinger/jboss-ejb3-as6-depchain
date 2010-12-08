@@ -69,7 +69,7 @@
     <version.org.jboss.ejb3.ejbref.resolver>1.0.0-alpha-4</version.org.jboss.ejb3.ejbref.resolver>
     <version.org.jboss.ejb3.heks>0.1.1</version.org.jboss.ejb3.heks>
     <version.org.jboss.ejb3.instantiator>1.0.0-alpha-4</version.org.jboss.ejb3.instantiator>
-    <version.org.jboss.ejb3.jndibinder>0.1.4</version.org.jboss.ejb3.jndibinder>
+    <version.org.jboss.ejb3.jndibinder>0.1.5-SNAPSHOT</version.org.jboss.ejb3.jndibinder>
     <version.org.jboss.ejb3.nointerface>1.0.0-alpha-9</version.org.jboss.ejb3.nointerface>
     <version.org.jboss.ejb3.proxy>1.0.0-alpha-1</version.org.jboss.ejb3.proxy>
     <version.org.jboss.ejb3.singleton>1.0.0-alpha-22</version.org.jboss.ejb3.singleton>
