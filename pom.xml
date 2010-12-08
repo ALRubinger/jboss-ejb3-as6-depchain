@@ -61,7 +61,7 @@
        EJB3 Components (org.jboss.ejb3.* > all artifacts for a groupId
        share release cycle/version)
      -->
-    <version.org.jboss.ejb3.async>1.0.0-alpha-7-SNAPSHOT</version.org.jboss.ejb3.async>
+    <version.org.jboss.ejb3.async>1.0.0-alpha-7</version.org.jboss.ejb3.async>
     <version.org.jboss.ejb3.concurrency>1.0.0-alpha-4-SNAPSHOT</version.org.jboss.ejb3.concurrency>
     <version.org.jboss.ejb3.container>1.0.0-alpha-2</version.org.jboss.ejb3.container>
     <version.org.jboss.ejb3.context>0.3.0</version.org.jboss.ejb3.context>
