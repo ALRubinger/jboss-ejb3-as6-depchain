@@ -72,7 +72,7 @@
     <version.org.jboss.ejb3.jndibinder>0.1.5-SNAPSHOT</version.org.jboss.ejb3.jndibinder>
     <version.org.jboss.ejb3.nointerface>1.0.0-alpha-9</version.org.jboss.ejb3.nointerface>
     <version.org.jboss.ejb3.proxy>1.0.0-alpha-1</version.org.jboss.ejb3.proxy>
-    <version.org.jboss.ejb3.singleton>1.0.0-alpha-23</version.org.jboss.ejb3.singleton>
+    <version.org.jboss.ejb3.singleton>1.0.0-alpha-24-SNAPSHOT</version.org.jboss.ejb3.singleton>
     <version.org.jboss.ejb3.statefulcache>1.0.0-alpha-4</version.org.jboss.ejb3.statefulcache>
     <version.org.jboss.ejb3.timeout>0.2.1</version.org.jboss.ejb3.timeout>
     <version.org.jboss.ejb3.tx2>0.0.1</version.org.jboss.ejb3.tx2>
