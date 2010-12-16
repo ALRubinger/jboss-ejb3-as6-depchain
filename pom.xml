@@ -54,7 +54,7 @@
     <version.org.jboss.ejb3_jboss.ejb3.timerservice.naming>1.0.0-alpha-2</version.org.jboss.ejb3_jboss.ejb3.timerservice.naming>
     <version.org.jboss.ejb3_jboss.ejb3.timerservice.spi>1.0.4</version.org.jboss.ejb3_jboss.ejb3.timerservice.spi>
     <version.org.jboss.ejb3_jboss.ejb3.transactions>1.0.3</version.org.jboss.ejb3_jboss.ejb3.transactions>
-    <version.org.jboss.ejb3.timerservice>1.0.0-alpha-10</version.org.jboss.ejb3.timerservice>
+    <version.org.jboss.ejb3.timerservice>1.0.0-alpha-11</version.org.jboss.ejb3.timerservice>
     
 
      <!--
